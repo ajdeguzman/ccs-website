@@ -1,0 +1,4 @@
+baseURL = "http://ucu-ccs.net/"
+languageCode = "en-us"
+title = "Welcome to UCU College of Computer Studies"
+theme = "navigator-hugo"
