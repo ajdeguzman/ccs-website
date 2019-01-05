@@ -1,7 +1,7 @@
 baseURL = "http://ucu-ccs.net/"
 languageCode = "en-us"
 title = "Welcome to UCU College of Computer Studies"
-theme = "navigator-hugo"\
+theme = "navigator-hugo"
 min_version = "0.42"
 
 # Build robots.txt file
