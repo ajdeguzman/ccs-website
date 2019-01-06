@@ -99,7 +99,7 @@ DefaultContentLanguage = "en"
     [Languages.en]
     weight = 2
     languageCode = "en-us"
-    title = "ENGLISH Example site multi-language"
+    title = "Welcome to College of Computer Studies"
     dateFormat = "January 2, 2019"
 
     home = "home"
